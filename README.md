@@ -1,6 +1,6 @@
 # LTN Tutorial: Applying the LTN Framework to a Simplified Clevr Dataset
 
-Welcome to our tutorial on using the Logic Tensor Networks (LTN) framework to solve visual reasoning tasks on a simplified version of the Clevr dataset. In this tutorial, we will show you how to combine LTN concepts introduced in the "multiclass classification" example and the "2-grounding_connectives" tutorial to solve complex visual reasoning problems. (link to LTN Github page:https://github.com/logictensornetworks/logictensornetworks )
+Welcome to our tutorial on using the Logic Tensor Networks (LTN) framework to solve visual reasoning tasks on a simplified version of the Clevr dataset. In this tutorial, we will show you how to combine LTN concepts introduced in the "multiclass classification" example and the "2-grounding_connectives" tutorial to solve complex visual reasoning problems.(link to LTN Github page:https://github.com/logictensornetworks/logictensornetworks)
 
 The Clevr dataset is a diagnostic dataset that tests a range of visual reasoning abilities and is widely used to analyze modern visual reasoning systems. Our simplified version of the Clevr dataset consist of a 2D scenes with 6 objects that can have one of two shapes and one of six different colors. This simplified version is taken from the following github repo:  https://github.com/nerdimite/neuro-symbolic-ai-soc
 
