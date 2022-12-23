@@ -10,6 +10,6 @@ Using the LTN framework, we will learn to identify the absolute attributes of ob
 
 By the end of this tutorial, you will have a better understanding of how to apply the LTN framework to solve complex visual reasoning problems.
 
-We believe that this tutorial is a valuable addition to the LTN GitHub repository (https://github.com/logictensornetworks/logictensornetworks) and will be a useful resource for readers looking to learn how to apply LTN concepts.
+We believe that this tutorial is a valuable addition to the list of examples provided in the LTN GitHub repository and will be a useful resource for readers looking to learn how to apply LTN concepts.
 
 If you have any questions or need any further information, please don't hesitate to reach out to us.
