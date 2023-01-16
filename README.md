@@ -13,3 +13,11 @@ By the end of this tutorial, a better understanding of how to apply the LTN fram
 This tutorial is a valuable addition to the list of examples provided in the LTN GitHub repository and will be a useful resource for readers looking to learn how to apply LTN concepts.
 
 If you have any questions or need any further information, please don't hesitate to reach out to us.
+
+
+# Acknowledgements
+
+This tutorial was created at the German Research Centre for Artificial Intelligence (dt. Deutsches Forschungszentrum für Künstliche Intelligenz) by 
+
+- Johanna Ott: Conception, Implementation, Testing 
+- Mattis Hartwig: Conception, Technical Review
